@@ -3,10 +3,6 @@
 
 These projects are demos and apps I created last year ( [@hu-yan](https://github.com/hu-yan) ) and then listed on my resume. 
 
-## However...
-
-Due to the current company / organization's issue, they are not going to hire me after  graduation. Thus, seeking for new opportunities is now on my agenda. 
-
 ## What's inside the box?
 
 ### Markdown-Blog-App
@@ -24,3 +20,4 @@ The back-end technique: The .NET Framework, SQL Server.
 
 A software based on C/S architecture that can do normal CRUD operations on SQL Server. The client UI takes advantage of Java FX and its database connection is created by the plain JDBC.
 
+### e.t.c
